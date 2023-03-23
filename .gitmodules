@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Haplin"]
+	path = Haplin
+	url = https://github.com/cran/Haplin
+	shallow = true
+	registered = true
+[submodule "invGauss"]
+	path = invGauss
+	url = https://github.com/cran/invGauss
+	shallow = true
+	registered = true
